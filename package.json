@@ -1,6 +1,6 @@
 {
-  "name": "lib-cli",
-  "version": "1.0.0",
+  "name": "my-lib-cli",
+  "version": "0.0.1",
   "main": "lib/index.js",
   "bin": "bin/lib-cli.js",
   "license": "MIT",
